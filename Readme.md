@@ -1,6 +1,6 @@
 # The Mathematics Repository
 
-The mathematics repo contains spreadsheets which explore simple mathematical concepts.
+The mathematics repo contains fun spreadsheets which explore simple mathematical concepts.
 These interactive spreadsheets help to achieve an intuitive understanding of the concepts.
 
 ### Benford's Law
